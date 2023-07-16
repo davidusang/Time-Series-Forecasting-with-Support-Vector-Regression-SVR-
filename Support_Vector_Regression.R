@@ -2,7 +2,6 @@
 library(forecast)    # For time series forecasting
 library(quantmod)    # For financial data retrieval
 library(caret)       # For model training and evaluation
-library(nnet)        # For Artificial Neural Network modeling
 library(ggplot2)     # For data visualization
 
 # Set the start and end dates for the data
